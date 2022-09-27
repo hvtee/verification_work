@@ -27,3 +27,11 @@
  ## **Блок-схема:** 
 
  [Method Main](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_main.png "Block sheme")
+ 
+ [Method PrintArray](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_printarray.png "Block sheme")
+
+ [Method CreateArray](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_createarray.png "Block sheme")
+
+ [Method FindSortedArraySize](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_findsortedarraysize.png "Block sheme")
+
+ [Method SortArray](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_sortarray.png "Block sheme")
