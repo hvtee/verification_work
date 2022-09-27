@@ -26,4 +26,4 @@
 
  ## **Блок-схема:** 
 
- [Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Markdow logo in browser")
+ [Method Main](https://github.com/hvtee/verification_work/blob/main/algorithm/algorithm_main.png "Block sheme")
