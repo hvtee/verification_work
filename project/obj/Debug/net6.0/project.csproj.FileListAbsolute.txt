@@ -1,0 +1,15 @@
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\bin\Debug\net6.0\project.exe
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\bin\Debug\net6.0\project.deps.json
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\bin\Debug\net6.0\project.dll
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\bin\Debug\net6.0\project.pdb
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.dll
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\refint\project.dll
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.pdb
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\WinDISK D\WORK\VS Code\verif_work\verification_work\project\obj\Debug\net6.0\ref\project.dll
